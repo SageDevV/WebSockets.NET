@@ -1,0 +1,15 @@
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\bin\Debug\net6.0\WebSocketsClient.exe
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\bin\Debug\net6.0\WebSocketsClient.deps.json
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\bin\Debug\net6.0\WebSocketsClient.runtimeconfig.json
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\bin\Debug\net6.0\WebSocketsClient.dll
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\bin\Debug\net6.0\WebSocketsClient.pdb
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\WebSocketsClient.csproj.AssemblyReference.cache
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\WebSocketsClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\WebSocketsClient.AssemblyInfoInputs.cache
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\WebSocketsClient.AssemblyInfo.cs
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\WebSocketsClient.csproj.CoreCompileInputs.cache
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\WebSocketsClient.dll
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\refint\WebSocketsClient.dll
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\WebSocketsClient.pdb
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\WebSocketsClient.genruntimeconfig.cache
+C:\Workspace.NET\WebSocketsClient\WebSocketsClient\obj\Debug\net6.0\ref\WebSocketsClient.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5DE6GShKu9oAewBsy0AjOfVp8HBaJhtBoX06QswFSNPXdH9xku9yYLDY/vDwmEJgjbyawlp2fBuagHXbLDsDtA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace.NET\\WebSocketsServer\\WebSocketsServer\\WebSocketsServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\122589\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
